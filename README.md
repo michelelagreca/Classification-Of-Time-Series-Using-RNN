@@ -43,11 +43,8 @@ The models proposed are: RNN, LSTM, Bidirectional LSTM, 1DConv, Feedforward Neur
 
 ## Results
 Overall, the 1DConv model achieved the best results in terms of validation accuracy, followed by
-
 BidirLSTM, LSTM+1DConv, and GRU. This suggests that convolutional neural networks and bidi-
-rectional processing can be effective for capturing temporal patterns in time series data, and that
-
-combining different types of neural networks can be useful for improving classification accuracy.
+rectional processing can be effective for capturing temporal patterns in time series data, and that combining different types of neural networks can be useful for improving classification accuracy.
 
 ## Conclusions
 These results taught us that our models, even if theoretically very different from each
