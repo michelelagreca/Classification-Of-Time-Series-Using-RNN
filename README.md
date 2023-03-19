@@ -53,7 +53,6 @@ why we tried to manipulate input data to extract “more information” from the
 oversampling, interpolation and bagging.
 
 ## Group Components
-
 | Cognome | Nome | e-mail | Codice Persona |
 | --- | --- | --- | --- |
 | La Greca  | Michele Carlo | michelecarlo.lagreca@mail.polimi.it | 10864460 |
